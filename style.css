@@ -1,0 +1,45 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.content-container {
+  margin: auto;
+  max-width: 600px;
+  padding-top: 250px;
+}
+
+.profile-img {
+  border-radius: 100%;
+  display: block;
+  margin: auto;
+  width: 75px;
+  height: 75px;
+  border: 3px solid black;
+}
+.main-info {
+  text-align: center;
+  white-space: nowrap;
+}
+.social-table {
+  margin: auto;
+  text-align: center;
+}
+
+.social-cell {
+  padding: 10px;
+}
+
+.social-icon {
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  border: 3px solid black;
+}
+
+.social-caption {
+  margin: 5px 0 0 0;
+  font-size: 14px;
+}
